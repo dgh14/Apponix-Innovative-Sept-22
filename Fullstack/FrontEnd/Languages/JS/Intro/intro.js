@@ -1,0 +1,1 @@
+console.log('Hiiiiiii 3rd output on external js')
